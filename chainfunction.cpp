@@ -1,3 +1,4 @@
 // chainfunction
 #include <iostream>
 using namespace std;
+class buku
